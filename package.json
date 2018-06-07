@@ -1,0 +1,23 @@
+{
+  "name": "prism-warpscript",
+  "version": "1.0.2",
+  "description": "A prism language definition for WarpScript",
+  "main": "prism-warpscript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LostInBrittany/prism-warpscript.git"
+  },
+  "keywords": [
+    "prism.js",
+    "warpscript"
+  ],
+  "author": "Horacio Gonzalez <horacio.gonzalez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LostInBrittany/prism-warpscript/issues"
+  },
+  "homepage": "https://github.com/LostInBrittany/prism-warpscript#readme"
+}
